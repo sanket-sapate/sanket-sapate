@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)]() /* link in bracket*/
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)]()
 <h1 align="center">Hi 👋, I'm Sanket Sapate</h1>
 <h3 align="center">Highly motivated and results-driven computer science graduate with experience in full-stack web development. Proficient in technologies such as JavaScript, React and React Native. Strong understanding of front-end development principles, including responsive design and user experience. Adept at quickly learning new technologies and working in a team environment. Committed to delivering high-quality, efficient and scalable web solutions.</h3>
 <img align="right" alt="coding" src = "https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" width=400>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 👨‍💻 All of my projects are available at []()
+- 👨‍💻 All of my projects are available at [My PortFolio]()
 
 - 📫 How to reach me **sanketsapatevnit@gmail.com**
 
